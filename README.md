@@ -4,6 +4,7 @@ Summary
 A Python-based password generator that creates a random password with user-specified numbers of letters, digits, and symbols.
 
 Description
+
 This project is a simple and interactive password generator script written in Python. The user is prompted to input the number of letters, numerical digits, and symbols they want in their password. The script then generates a password with the specified criteria, shuffles the characters for randomness, and displays the generated password.
 
 Features
