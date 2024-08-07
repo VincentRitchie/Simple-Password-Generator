@@ -60,7 +60,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Author
 
-Vincent Chimaobi (CyberGhoxt)
+#### Vincent Chimaobi (CyberGhoxt)
 
 Connect with me on 
 - [GitHub](https://www.github.com/VincentRitchie/CyberGhoxt)
